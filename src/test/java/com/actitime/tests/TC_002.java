@@ -9,5 +9,6 @@ public class TC_002
 	public void demo()
 	{
 		Reporter.log("this is a demo test case" , true);
+		Reporter.log("helloooo",true);
 	}
 }
